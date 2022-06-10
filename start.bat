@@ -5,3 +5,4 @@ pip install pyotp
 pip install os
 cls
 python main.py
+pause
